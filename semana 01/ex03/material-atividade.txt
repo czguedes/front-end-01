@@ -108,20 +108,20 @@ são interpretadas por outras aplicações, pois uma vez estando “hospedadas�
 qualquer aplicação pode abrir nossa página e obter as informações que precisa. Para organizar
 as informações de uma página existe um grupo e elementos, listados abaixo:
             
-<header>
-<section>
-<article>
-<nav>
-<aside>
-<main>
-<figure>
-<footer>
-<a>
-<em>
-<strong>
-<cite>
-<q>
-<time>
+&lt;header&gt;
+&lt;section&gt;
+&lt;article&gt;
+&lt;nav&gt;
+&lt;aside&gt;
+&lt;main&gt;
+&lt;figure&gt;
+&lt;footer&gt;
+&lt;a&gt;
+&lt;em&gt;
+&lt;strong&gt;
+&lt;cite&gt;
+&lt;q&gt;
+&lt;time&gt;
 
 
 A descrição e utilização de cada uma dessas tags estará disponivel em nosso Glossário HTML no Class
